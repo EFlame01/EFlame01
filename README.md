@@ -2,7 +2,7 @@
 
 ## About Me
 This is S.A. the founder of EO Comics! My goal is to make entertainment based on the stories and experiences that I want to tell. This GitHub page details all the projects that I want/am implementing in the tech space, and I hope to share them with you in the near future!
-
+<img align="right" alt="EO Comics Image" src="./eo-comics-img.png" width="320" height="320" />
 ### Where to Find Me:
 * YouTube
 * Instagram

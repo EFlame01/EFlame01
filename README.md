@@ -7,16 +7,17 @@
   <img align="center" alt="EO Comics Image" src="./images/eo-comics-banner-logo.png" width="1280"/>
   
   <p>
-    This is S.A. the founder of EO Comics! My goal is to make entertainment based on the stories and experiences that I want to tell. This GitHub page details all the projects that I want/am implementing in the tech space, and I hope to share them with you in the near future!
+
+  This is S.A. the founder of EO Comics! My goal is to make entertainment based on the stories and experiences that I want to tell. This GitHub page details all the projects that I want/am implementing in the tech space, and I hope to share them with you in the near future!
   </p>
 </div>
 
 <div class="my-projects-section">
-  <h1>My Projects</h1>
+  <h2>My Projects</h2>
 
   <div class="eo-comics-website-section">
     <h3>EO Comics Website</h3>
-    <img align="center" alt="EO Comics Launch Page" src="./images/eo-comics-launch-page.png" width="1280"/>
+    <!-- <img align="center" alt="EO Comics Launch Page" src="./images/eo-comics-launch-page.png" width="1280"/> -->
     <a href="https://github.com/EFlame01/Guardians-of-RPG">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=eo-comics-webpage&theme=tokyonight" />
   </div>

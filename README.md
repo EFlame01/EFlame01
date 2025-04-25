@@ -3,28 +3,12 @@
   🔥EFlame01's Domain🔥
 </h1>
 
-## About Me
+<h2>
+  About Me
+</h2>
 This is S.A. the founder of EO Comics! My goal is to make entertainment based on the stories and experiences that I want to tell. This GitHub page details all the projects that I want/am implementing in the tech space, and I hope to share them with you in the near future!
 
 <img align="center" alt="EO Comics Image" src="./eo-comics-banner-logo.png" width="1280" height="320" />
-<!--
-<table align="center">
- <tr>
-    <td><img align="center" alt="EO Comics Image" src="./youtube-logo.png" width="160" height="160" /></td>
-    <td><img align="center" alt="EO Comics Image" src="./instagram-logo.png" width="160" height="160" /></td>
-    <td><img align="center" alt="EO Comics Image" src="./twitter-logo.png" width="160" height="160" /></td>
-    <td><img align="center" alt="EO Comics Image" src="./itch-io-logo.png" width="160" height="160" /></td>
-    <td><img align="center" alt="EO Comics Image" src="./tiktok-logo.png" width="160" height="160" /></td>
- </tr>
- <tr>
-    <td>YouTube</td>
-    <td>Instagram</td>
-    <td>Twitter</td>
-    <td>Itch.io</td>
-    <td>TikTok</td>
- </tr>
-</table>
--->
 
 ## My Projects
 ### EO Comics Website

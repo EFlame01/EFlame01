@@ -3,7 +3,7 @@
   🔥EFlame01's Domain🔥
 </h1>
 
-<div>
+<div class="about-me-section">
   <h2>
     About Me
   </h2>
@@ -15,13 +15,20 @@
   <img align="center" alt="EO Comics Image" src="./images/eo-comics-banner-logo.png" width="1280"/>
 </div>
 
-## My Projects
-### EO Comics Website
-<img align="center" alt="EO Comics Launch Page" src="./images/eo-comics-launch-page.png" width="1280"/>
+<div class="my-projects-section">
+  <h1>My Projects</h1>
 
-### Guardians of RPG
-#### The Video Game
-#### The Comcis
+  <div class="eo-comics-website-section">
+    <h3>EO Comics Website</h3>
+    <img align="center" alt="EO Comics Launch Page" src="./images/eo-comics-launch-page.png" width="1280"/>
+  </div>
+
+  <div class="guardians-of-rpg-section">
+    <h3>Guardians of RPG</h3>
+  </div>
+</div>
+
+
 ### Zach Against the World
 #### The Animated Series
 #### Video Games

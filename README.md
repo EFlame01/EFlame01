@@ -1,18 +1,14 @@
 <!-- # 🔥EFlame01's Domain🔥 -->
-<h1 align="center">
-  🔥EFlame01's Domain🔥
-</h1>
+<h1 align="center">🔥EFlame01's Domain🔥</h1>
 
 <div class="about-me-section">
-  <h2>
-    About Me
-  </h2>
+  <h2>About Me</h2>  
+  
+  <img align="center" alt="EO Comics Image" src="./images/eo-comics-banner-logo.png" width="1280"/>
 
   <p>
-  This is S.A. the founder of EO Comics! My goal is to make entertainment based on the stories and experiences that I want to tell. This GitHub page details all the projects that I want/am implementing in the tech space, and I hope to share them with you in the near future!
+    This is S.A. the founder of EO Comics! My goal is to make entertainment based on the stories and experiences that I want to tell. This GitHub page details all the projects that I want/am implementing in the tech space, and I hope to share them with you in the near future!
   </p>
-
-  <img align="center" alt="EO Comics Image" src="./images/eo-comics-banner-logo.png" width="1280"/>
 </div>
 
 <div class="my-projects-section">
@@ -29,7 +25,7 @@
 </div>
 
 
-### Zach Against the World
+<!-- ### Zach Against the World
 #### The Animated Series
 #### Video Games
 ##### Zach Against the World and the Attack of the Killer Plants
@@ -38,13 +34,14 @@
 ##### Zach Against the World: In a League of His Own
 
 ## Collaborative Projects
-### Train of Thought
+### Train of Thought -->
 
 ## What I'm Learning
 * Docker/Kubernetes
 * AWS
 * DevOps
 * Game Development
+* Moho
 
 ## Skill Tree
 * Java
@@ -64,7 +61,7 @@
 * IntelliJ
 * Arduino IDE
 
-### Where to Find Me:
+<h3>Where to Find Me:</h3>
 <div align="center">
   <a href="https://www.youtube.com/@eo_comics">
     <img align="center" alt="YouTube Logo" src="./images/youtube-logo.png" width="80" height="80" />

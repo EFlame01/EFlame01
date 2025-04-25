@@ -12,7 +12,7 @@
   This is S.A. the founder of EO Comics! My goal is to make entertainment based on the stories and experiences that I want to tell. This GitHub page details all the projects that I want/am implementing in the tech space, and I hope to share them with you in the near future!
   </p>
 
-  <img align="center" alt="EO Comics Image" src="./images/eo-comics-banner-logo.png" width="1280" height="320" />
+  <img align="center" alt="EO Comics Image" src="./images/eo-comics-banner-logo.png" width="1280"/>
 </div>
 
 ## My Projects

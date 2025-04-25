@@ -7,17 +7,17 @@
   <h2>
     About Me
   </h2>
-  
+
   <p>
   This is S.A. the founder of EO Comics! My goal is to make entertainment based on the stories and experiences that I want to tell. This GitHub page details all the projects that I want/am implementing in the tech space, and I hope to share them with you in the near future!
   </p>
 
-  <img align="center" alt="EO Comics Image" src="./eo-comics-banner-logo.png" width="1280" height="320" />
+  <img align="center" alt="EO Comics Image" src="./images/eo-comics-banner-logo.png" width="1280" height="320" />
 </div>
 
 ## My Projects
 ### EO Comics Website
-<img align="center" alt="EO Comics Launch Page" src="./eo-comics-launch-page.png" width="1280"/>
+<img align="center" alt="EO Comics Launch Page" src="./images/eo-comics-launch-page.png" width="1280"/>
 
 ### Guardians of RPG
 #### The Video Game
@@ -60,19 +60,19 @@
 ### Where to Find Me:
 <div align="center">
   <a href="https://www.youtube.com/@eo_comics">
-    <img align="center" alt="YouTube Logo" src="./youtube-logo.png" width="80" height="80" />
+    <img align="center" alt="YouTube Logo" src="./images/youtube-logo.png" width="80" height="80" />
   </a>
   <a href="https://www.instagram.com/eo_comics/">
-    <img align="center" alt="Instagram Logo" src="./instagram-logo.png" width="80" height="80" />
+    <img align="center" alt="Instagram Logo" src="./images/instagram-logo.png" width="80" height="80" />
   </a>
   <a href="https://x.com/eo_comics">
-    <img align="center" alt="Twitter Logo" src="./twitter-logo.png" width="80" height="80" />
+    <img align="center" alt="Twitter Logo" src="./images/twitter-logo.png" width="80" height="80" />
   </a>
   <a href="https://eo-comics.itch.io/">
-    <img align="center" alt="Itch.io Logo" src="./itch-io-logo.png" width="80" height="80" />
+    <img align="center" alt="Itch.io Logo" src="./images/itch-io-logo.png" width="80" height="80" />
   </a>
   <a href="https://www.tiktok.com/@eo_comics">
-    <img align="center" alt="TikTok Logo" src="./tiktok-logo.png" width="80" height="80" />
+    <img align="center" alt="TikTok Logo" src="./images/tiktok-logo.png" width="80" height="80" />
   </a>
 </div>
 <!--

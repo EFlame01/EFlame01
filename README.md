@@ -17,10 +17,15 @@
   <div class="eo-comics-website-section">
     <h3>EO Comics Website</h3>
     <img align="center" alt="EO Comics Launch Page" src="./images/eo-comics-launch-page.png" width="1280"/>
+    <a href="https://github.com/EFlame01/Guardians-of-RPG">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=eo-comics-webpage&theme=tokyonight" />
   </div>
 
   <div class="guardians-of-rpg-section">
     <h3>Guardians of RPG</h3>
+    <a href="https://github.com/EFlame01/Guardians-of-RPG">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=guardians-of-rpg&theme=tokyonight" />
+    </a>
   </div>
 </div>
 

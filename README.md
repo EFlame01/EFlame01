@@ -3,12 +3,17 @@
   🔥EFlame01's Domain🔥
 </h1>
 
-<h2>
-  About Me
-</h2>
-This is S.A. the founder of EO Comics! My goal is to make entertainment based on the stories and experiences that I want to tell. This GitHub page details all the projects that I want/am implementing in the tech space, and I hope to share them with you in the near future!
+<div>
+  <h2>
+    About Me
+  </h2>
+  
+  <p>
+  This is S.A. the founder of EO Comics! My goal is to make entertainment based on the stories and experiences that I want to tell. This GitHub page details all the projects that I want/am implementing in the tech space, and I hope to share them with you in the near future!
+  </p>
 
-<img align="center" alt="EO Comics Image" src="./eo-comics-banner-logo.png" width="1280" height="320" />
+  <img align="center" alt="EO Comics Image" src="./eo-comics-banner-logo.png" width="1280" height="320" />
+</div>
 
 ## My Projects
 ### EO Comics Website

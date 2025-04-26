@@ -1,5 +1,5 @@
 <!-- # 🔥EFlame01's Domain🔥 -->
-<h1 align="center">🔥EFlame01's Domain🔥</h1>
+<h1 align="center">README UNDER CONSTRUCTION</h1>
 
 <div class="about-me-section">
   <h2>About Me</h2>  
@@ -13,20 +13,33 @@
 </div>
 
 <div class="my-projects-section">
-  <h2>My Projects</h2>
+  <h2>My GitHub Projects</h2>
 
   <div class="eo-comics-website-section">
-    <h3>EO Comics Website</h3>
-    <!-- <img align="center" alt="EO Comics Launch Page" src="./images/eo-comics-launch-page.png" width="1280"/> -->
-    <a href="https://github.com/EFlame01/Guardians-of-RPG">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=eo-comics-webpage&theme=tokyonight" />
+    <h3>💻 EO Comics Website</h3>
+    <br>
+    <div align="center">
+      <a href="https://github.com/EFlame01/Guardians-of-RPG">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=eo-comics-webpage&theme=tokyonight" />
+      </a>
+    </div>
+    <div>
+      <br>
+      <img align="right" src="./images/eo-comics-launch-page.png" style="border-radius:2%" width="50%"/>
+      <p align="left">
+        I'm currently in the process of developing my own website for EO Comics! This website will contain all the updated projects that EO Comics has to offer, such as comics, video games, and animated content! In addition to this, it will also have blogs and frequent update posts to keep my audience up to date with any future EO Comics endeavors!
+      </p>
+    </div>
   </div>
 
   <div class="guardians-of-rpg-section">
-    <h3>Guardians of RPG</h3>
-    <a href="https://github.com/EFlame01/Guardians-of-RPG">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=guardians-of-rpg&theme=tokyonight" />
-    </a>
+    <h3>🎮 Guardians of RPG</h3>
+    <br>
+    <div align="center">
+      <a href="https://github.com/EFlame01/Guardians-of-RPG">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=guardians-of-rpg&theme=tokyonight" />
+      </a>
+    </div>
   </div>
 </div>
 

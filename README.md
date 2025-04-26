@@ -25,13 +25,13 @@
     </div>
     <div>
       <br>
-      <img align="right" src="./images/eo-comics-launch-page.png" style="border-radius:2%" width="50%"/>
+      <img align="right" src="./images/eo-comics-launch-page.png" style="border-radius:2%" width="400"/>
       <p align="left">
         I'm currently in the process of developing my own website for EO Comics! This website will contain all the updated projects that EO Comics has to offer, such as comics, video games, and animated content! In addition to this, it will also have blogs and frequent update posts to keep my audience up to date with any future EO Comics endeavors!
       </p>
     </div>
   </div>
-
+  <br>
   <div class="guardians-of-rpg-section">
     <h3>🎮 Guardians of RPG</h3>
     <br>

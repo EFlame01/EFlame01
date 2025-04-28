@@ -58,25 +58,32 @@
         Explore the framework that contributes to the creation of this sprawling epic for free on my GitHub!
       </p>
       <div align="center">
-        <a align="center">
-          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-1.png" style="border-radius:2%; margin:10px" width="300"/>
-        </a>
-        <a align="center">
-        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-2.png" style="border-radius:2%; margin:10px" width="300"/>
-        </a>
-        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-16.png" style="border-radius:2%; margin:10px" width="300"/>
-        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-4.png" style="border-radius:2%; margin:10px" width="300"/>
-        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-10.png" style="border-radius:2%; margin:10px" width="300"/>
-        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-18.png" style="border-radius:2%; margin:10px" width="300"/>
-        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-11.png" style="border-radius:2%; margin:10px" width="300"/>
-        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-3.png" style="border-radius:2%; margin:10px" width="300"/>
-        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-15.png" style="border-radius:2%; margin:10px" width="300"/>
+        <div align="center">
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-1.png"width="300"/>
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-2.png"width="300"/>
+        </div>
+        <br>
+        <div align="center">
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-16.png"width="300"/>
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-4.png"width="300"/>
+        </div>
+        <br>
+        <div align="center">
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-10.png"width="300"/>
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-18.png"width="300"/>
+        </div>
+        <br>
+        <div align="center">
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-11.png"width="300"/>
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-3.png"width="300"/>
+        </div>
+        <br>
+        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-15.png" width="300"/>
       </div>
     </div>
   </div>
 </div>
 <br>
-
 
 ## What I'm Learning
 * Docker/Kubernetes

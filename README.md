@@ -58,7 +58,9 @@
         Explore the framework that contributes to the creation of this sprawling epic for free on my GitHub!
       </p>
       <div align="center">
-        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-1.png" style="border-radius:2%; margin:10px" width="300"/>
+        <a>
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-1.png" style="border-radius:2%; margin:10px" width="300"/>
+        </a>
         <img align="center" src="./images/gofrpg/gofrpg-promo-pic-2.png" style="border-radius:2%; margin:10px" width="300"/>
         <img align="center" src="./images/gofrpg/gofrpg-promo-pic-16.png" style="border-radius:2%; margin:10px" width="300"/>
         <img align="center" src="./images/gofrpg/gofrpg-promo-pic-4.png" style="border-radius:2%; margin:10px" width="300"/>

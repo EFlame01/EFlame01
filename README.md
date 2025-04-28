@@ -20,10 +20,10 @@
     <br>
     <div align="center">
       <a href="https://github.com/EFlame01/EO-Comics-WebPage">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=eo-comics-webpage&theme=tokyonight" style="border-radius:2%; margin:5px" width="400"/>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=eo-comics-webpage&theme=tokyonight" width="400"/>
       </a>
       <a href="https://github.com/EFlame01/EO-Comics-WebPage">
-        <img align="center" src="./images/eo-comics-launch-page.png" style="border-radius:2%; margin:5px" width="400"/>
+        <img align="center" src="./images/eo-comics-launch-page.png" width="400"/>
       </a>
     </div>
     <br>
@@ -32,6 +32,14 @@
         I'm currently in the process of developing my own website for EO Comics! This website will contain all the updated projects that EO Comics has to offer, such as comics, video games, and animated content! In addition to this, it will also have blogs and frequent update posts to keep my audience up to date with any future EO Comics endeavors!
       </p>
     </div>
+    <div align="center">
+      <div align="center">
+            <img align="center" src="./images/eocwp/eo-comics-login-page.jpeg"width="300"/>
+            <img align="center" src="./images/eocwp/eo-comics-home-page.png"width="300"/>
+          </div>
+          <br>
+          <img align="center" src="./images/eocwp/eo-comics-sign-up-page.jpeg"width="400"/>
+      </div>
   </div>
   <br>
   <div class="guardians-of-rpg-section">

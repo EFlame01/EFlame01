@@ -99,6 +99,23 @@
 * IntelliJ
 * Arduino IDE
 
+## 📊 Check out my stats
+
+<div align="center">
+    <a href="https://github.com/eflame01/github-readme-stats">
+        <img height=325 align="center" src="https://github-readme-stats.vercel.app/api?username=eflame01&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/eflame01/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eflame01&theme=tokyonight&langs_count=6" />
+    </a>
+</div>
+<br>
+<div align="center">
+    <a align="center" href="https://git.io/streak-stats">
+        <img align="center" src="https://streak-stats.demolab.com/?user=eflame01)&theme=tokyonight"/>
+    </a>
+</div>
+
 <h3>Where to Find Me:</h3>
 <div align="center">
   <a href="https://www.youtube.com/@eo_comics">

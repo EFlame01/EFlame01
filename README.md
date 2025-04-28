@@ -41,7 +41,6 @@
       <a href="https://github.com/EFlame01/Guardians-of-RPG">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=guardians-of-rpg&theme=tokyonight" style="border-radius:2%; margin:5px" width="400"/>
       </a>
-      <br>
       <a href="https://github.com/EFlame01/Guardians-of-RPG">
         <img align="center" src="./images/gofrpg/guardians-of-rpg-start-page.png" style="border-radius:2%; margin:5px" width="400"/>
       </a>

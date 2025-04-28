@@ -67,15 +67,14 @@
   </div>
 </div>
 <br>
-<div>
-  <br>
-  <h1> What I'm Learning </h1>
-  * Docker/Kubernetes
-  * AWS
-  * DevOps
-  * Game Development
-  * Moho
-</div>
+
+
+## What I'm Learning
+* Docker/Kubernetes
+* AWS
+* DevOps
+* Game Development
+* Moho
 
 ## Skill Tree
 * Java

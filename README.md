@@ -7,7 +7,8 @@
   <img align="center" alt="EO Comics Image" src="./images/eo-comics-banner-logo.png" width="1280"/>
   
   <p>
-
+  <b>
+  
   This is S.A. the founder of EO Comics! My goal is to make entertainment based on the stories and experiences that I want to tell. This GitHub page details all the projects that I want/am implementing in the tech space, and I hope to share them with you in the near future!
   </p>
 </div>
@@ -18,13 +19,23 @@
   <div align="center" class="eo-comics-website-section">
     <h2 align="center">💻 EO Comics Website</h2>
     <br>
-    <div align="center">
-      <a href="https://github.com/EFlame01/EO-Comics-WebPage">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=eo-comics-webpage&theme=tokyonight" width="400"/>
-      </a>
-      <a href="https://github.com/EFlame01/EO-Comics-WebPage">
-        <img align="center" src="./images/eo-comics-launch-page.png" width="600"/>
-      </a>
+    <div>
+    <table>
+      <thead align="center">
+        <tr>
+          <td>
+            <a href="https://github.com/EFlame01/EO-Comics-WebPage">
+              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=eo-comics-webpage&theme=tokyonight" width="400"/>
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/EFlame01/EO-Comics-WebPage">
+              <img align="center" src="./images/eocwp/eo-comics-sign-up-page.jpeg" width="400"/>
+            </a>
+          </td>
+        </tr>
+      </thead>
+    </table>
     </div>
     <br>
     <div>
@@ -32,26 +43,27 @@
         I'm currently in the process of developing my own website for EO Comics! This website will contain all the updated projects that EO Comics has to offer, such as comics, video games, and animated content! In addition to this, it will also have blogs and frequent update posts to keep my audience up to date with any future EO Comics endeavors!
       </p>
     </div>
-    <div align="center">
-      <div align="center">
-            <img align="center" src="./images/eocwp/eo-comics-login-page.jpeg" width="300"/>
-            <img align="center" src="./images/eocwp/eo-comics-home-page.png" width="300"/>
-          </div>
-          <br>
-          <img align="center" src="./images/eocwp/eo-comics-sign-up-page.jpeg" width="400"/>
-      </div>
-  </div>
   <br>
   <div class="guardians-of-rpg-section">
     <h2 align="center">🎮 Guardians of RPG</h2>
     <br>
     <div align="center">
-      <a href="https://github.com/EFlame01/Guardians-of-RPG">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=guardians-of-rpg&theme=tokyonight" width="400"/>
-      </a>
-      <a href="https://github.com/EFlame01/Guardians-of-RPG">
-        <img align="center" src="./images/gofrpg/guardians-of-rpg-start-page.png" width="600"/>
-      </a>
+      <table>
+        <thead align="center">
+          <tr>
+            <td>
+              <a href="https://github.com/EFlame01/Guardians-of-RPG">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=guardians-of-rpg&theme=tokyonight" width="400"/>
+              </a>
+            </td>
+            <td>
+              <a href="https://github.com/EFlame01/Guardians-of-RPG">
+                <img align="center" src="./images/gofrpg/guardians-of-rpg-start-page.png" width="400"/>
+              </a>
+            </td>
+          </tr>
+        </thead>
+      </table>
     </div>
     <div>
       <br>
@@ -121,7 +133,7 @@
 
 <div align="center">
     <a href="https://github.com/eflame01/github-readme-stats">
-        <img height=325 align="center" src="https://github-readme-stats.vercel.app/api?username=eflame01&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=eflame01&show_icons=true&theme=gotham" alt="eflame01" />
     </a>
     <a href="https://github.com/eflame01/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eflame01&theme=tokyonight&langs_count=6" />

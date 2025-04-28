@@ -106,7 +106,7 @@
 
 ## Coding Languages
 ![Java](https://img.shields.io/badge/Java-blue.svg?style=for-the-badge&logo=Java&logoColor=white)
-![C#](https://img.shields.io/badge/C_Sharp-blue.svg?style=for-the-badge&logo=CSharp&logoColor=white)
+![C#](https://img.shields.io/badge/C_Sharp-purple.svg?style=for-the-badge&logo=CSharp&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-yellow.svg?style=for-the-badge&logo=Javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML/CSS-orange.svg?style=for-the-badge&logo=CSS&logoColor=white)
 ![Pyton](https://img.shields.io/badge/Python-grey.svg?style=for-the-badge&logo=Python&logoColor=white)
@@ -120,7 +120,6 @@
 ![Selenium](https://img.shields.io/badge/Selenium-grey.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 ## What I'm Learning
-
 * Docker/Kubernetes
 * AWS
 * DevOps

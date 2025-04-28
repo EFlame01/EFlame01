@@ -10,6 +10,7 @@
   <b>
   
   This is S.A. the founder of EO Comics! My goal is to make entertainment based on the stories and experiences that I want to tell. This GitHub page details all the projects that I want/am implementing in the tech space, and I hope to share them with you in the near future!
+  </b>
   </p>
 </div>
 
@@ -67,14 +68,13 @@
     </div>
     <div>
       <br>
-      <!-- <div align="center">
-        <img src="./images/gofrpg/guardians-of-rpg-start-page.png" style="border-radius:2%" width="1000"/>
-      </div> -->
       <p>
-        Guardians of RPG is a 16 bit Role Playing where you wake up in the middle of the world with no memories of your past life. In your quest to find the answers to your past and your purpose, you learn more about the world and the evil organization that's hell bent on refactoring the land of RPG into their own image!
+        Guardians of RPG is a <i>16-bit Role Playing Game</i> where you wake up in the middle of the world with no memories of your past life. In your quest to find the answers to your past and your purpose, you learn more about the world and the evil organization that's hell bent on refactoring the land of RPG into their own image!
       </p>
       <p>
-        Explore the framework that contributes to the creation of this sprawling epic for free on my GitHub!
+        <i>
+          Explore the framework that contributes to the creation of this sprawling epic for free on my GitHub!
+        </i>
       </p>
       <div align="center">
         <div align="center">
@@ -104,21 +104,27 @@
 </div>
 <br>
 
+## Coding Languages
+![Java](https://img.shields.io/badge/Java-blue.svg?style=for-the-badge&logo=Java&logoColor=white)
+![C#](https://img.shields.io/badge/C_Sharp-blue.svg?style=for-the-badge&logo=CSharp&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-yellow.svg?style=for-the-badge&logo=Javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML/CSS-orange.svg?style=for-the-badge&logo=CSS&logoColor=white)
+![Pyton](https://img.shields.io/badge/Python-grey.svg?style=for-the-badge&logo=Python&logoColor=white)
+![sQL](https://img.shields.io/badge/SQL-skyblue.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![C](https://img.shields.io/badge/C/C++-red.svg?style=for-the-badge&logo=C&logoColor=white)
+
+## Frameworks
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![React Native](https://img.shields.io/badge/React/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Selenium](https://img.shields.io/badge/Selenium-grey.svg?style=for-the-badge&logo=selenium&logoColor=white)
+
 ## What I'm Learning
+
 * Docker/Kubernetes
 * AWS
 * DevOps
-* Game Development
-* Moho
-
-## Skill Tree
-* Java
-* C#
-* Javascript
-* HTML/CSS
-* Python
-* SQL
-* C/C++
+* Moho Studio
 
 ## Software I Used
 * WonderShare Filmora

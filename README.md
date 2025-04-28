@@ -1,5 +1,5 @@
 <!-- # 🔥EFlame01's Domain🔥 -->
-<h1 align="center">README UNDER CONSTRUCTION</h1>
+<h1 align="center">👷🏿‍♂️README UNDER CONSTRUCTION 🏗️</h1>
 
 <div class="about-me-section">
   <h2>About Me</h2>  
@@ -15,8 +15,8 @@
 <div class="my-projects-section">
   <h2>My GitHub Projects</h2>
 
-  <div class="eo-comics-website-section">
-    <h3>💻 EO Comics Website</h3>
+  <div align="center" class="eo-comics-website-section">
+    <h3 align="center">💻 EO Comics Website</h3>
     <br>
     <div align="center">
       <a href="https://github.com/EFlame01/Guardians-of-RPG">
@@ -25,31 +25,57 @@
     </div>
     <div>
       <br>
-      <img align="right" src="./images/eo-comics-launch-page.png" style="border-radius:2%" width="400"/>
-      <br>
+      <img align="right" src="./images/eo-comics-launch-page.png" style="border-radius:2%; margin:5px" width="350"/>
       <p align="left">
-        I'm currently in the process of developing my own website for EO Comics! This website will contain all the updated projects that EO Comics has to offer, such as comics, video games, and animated content! In addition to this, it will also have blogs and frequent update posts to keep my audience up to date with any future EO Comics endeavors!
+      I'm currently in the process of developing my own website for EO Comics! This website will contain all the updated projects that EO Comics has to offer, such as comics, video games, and animated content! In addition to this, it will also have blogs and frequent update posts to keep my audience up to date with any future EO Comics endeavors!
       </p>
     </div>
   </div>
   <br>
+  <br>
   <div class="guardians-of-rpg-section">
-    <h3>🎮 Guardians of RPG</h3>
+    <h3 align="center">🎮 Guardians of RPG</h3>
     <br>
     <div align="center">
       <a href="https://github.com/EFlame01/Guardians-of-RPG">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=guardians-of-rpg&theme=tokyonight" />
       </a>
     </div>
+    <div>
+      <br>
+      <div align="center">
+        <img src="./images/gofrpg/guardians-of-rpg-start-page.png" style="border-radius:2%" width="1000"/>
+      </div>
+      <p>
+        Guardians of RPG is a 16 bit Role Playing where you wake up in the middle of the world with no memories of your past life. In your quest to find the answers to your past and your purpose, you learn more about the world and the evil organization that's hell bent on refactoring the land of RPG into their own image!
+      </p>
+      <p>
+        Explore the framework that contributes to the creation of this sprawling epic for free on my GitHub!
+      </p>
+      <div align="center">
+        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-1.png" style="border-radius:2%; margin:10px" width="300"/>
+        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-2.png" style="border-radius:2%; margin:10px" width="300"/>
+        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-16.png" style="border-radius:2%; margin:10px" width="300"/>
+        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-4.png" style="border-radius:2%; margin:10px" width="300"/>
+        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-10.png" style="border-radius:2%; margin:10px" width="300"/>
+        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-18.png" style="border-radius:2%; margin:10px" width="300"/>
+        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-11.png" style="border-radius:2%; margin:10px" width="300"/>
+        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-3.png" style="border-radius:2%; margin:10px" width="300"/>
+        <img align="center" src="./images/gofrpg/gofrpg-promo-pic-15.png" style="border-radius:2%; margin:10px" width="300"/>
+      </div>
+    </div>
   </div>
 </div>
-
-## What I'm Learning
-* Docker/Kubernetes
-* AWS
-* DevOps
-* Game Development
-* Moho
+<br>
+<div>
+  <br>
+  <h1> What I'm Learning </h1>
+  * Docker/Kubernetes
+  * AWS
+  * DevOps
+  * Game Development
+  * Moho
+</div>
 
 ## Skill Tree
 * Java

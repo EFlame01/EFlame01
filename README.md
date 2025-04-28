@@ -16,13 +16,13 @@
   <h2>My GitHub Projects</h2>
 
   <div align="center" class="eo-comics-website-section">
-    <h3 align="center">💻 EO Comics Website</h3>
+    <h2 align="center">💻 EO Comics Website</h2>
     <br>
     <div align="center">
-      <a href="https://github.com/EFlame01/Guardians-of-RPG">
+      <a href="https://github.com/EFlame01/EO-Comics-WebPage">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=eo-comics-webpage&theme=tokyonight" style="border-radius:2%; margin:5px" width="400"/>
       </a>
-      <a href="https://github.com/EFlame01/Guardians-of-RPG">
+      <a href="https://github.com/EFlame01/EO-Comics-WebPage">
         <img align="center" src="./images/eo-comics-launch-page.png" style="border-radius:2%; margin:5px" width="400"/>
       </a>
     </div>
@@ -35,11 +35,11 @@
   </div>
   <br>
   <div class="guardians-of-rpg-section">
-    <h3 align="center">🎮 Guardians of RPG</h3>
+    <h2 align="center">🎮 Guardians of RPG</h2>
     <br>
     <div align="center">
       <a href="https://github.com/EFlame01/Guardians-of-RPG">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=guardians-of-rpg&theme=tokyonight" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=guardians-of-rpg&theme=tokyonight" style="border-radius:2%; margin:5px" width="400"/>
       </a>
       <br>
       <a href="https://github.com/EFlame01/Guardians-of-RPG">

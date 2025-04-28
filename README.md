@@ -23,7 +23,7 @@
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=eo-comics-webpage&theme=tokyonight" width="400"/>
       </a>
       <a href="https://github.com/EFlame01/EO-Comics-WebPage">
-        <img align="center" src="./images/eo-comics-launch-page.png" width="400"/>
+        <img align="center" src="./images/eo-comics-launch-page.png" width="600"/>
       </a>
     </div>
     <br>
@@ -34,11 +34,11 @@
     </div>
     <div align="center">
       <div align="center">
-            <img align="center" src="./images/eocwp/eo-comics-login-page.jpeg"width="300"/>
-            <img align="center" src="./images/eocwp/eo-comics-home-page.png"width="300"/>
+            <img align="center" src="./images/eocwp/eo-comics-login-page.jpeg" width="300"/>
+            <img align="center" src="./images/eocwp/eo-comics-home-page.png" width="300"/>
           </div>
           <br>
-          <img align="center" src="./images/eocwp/eo-comics-sign-up-page.jpeg"width="400"/>
+          <img align="center" src="./images/eocwp/eo-comics-sign-up-page.jpeg" width="400"/>
       </div>
   </div>
   <br>
@@ -47,10 +47,10 @@
     <br>
     <div align="center">
       <a href="https://github.com/EFlame01/Guardians-of-RPG">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=guardians-of-rpg&theme=tokyonight" style="border-radius:2%; margin:5px" width="400"/>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=guardians-of-rpg&theme=tokyonight" width="400"/>
       </a>
       <a href="https://github.com/EFlame01/Guardians-of-RPG">
-        <img align="center" src="./images/gofrpg/guardians-of-rpg-start-page.png" style="border-radius:2%; margin:5px" width="400"/>
+        <img align="center" src="./images/gofrpg/guardians-of-rpg-start-page.png" width="600"/>
       </a>
     </div>
     <div>
@@ -66,23 +66,23 @@
       </p>
       <div align="center">
         <div align="center">
-          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-1.png"width="300"/>
-          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-2.png"width="300"/>
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-1.png" width="300"/>
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-2.png" width="300"/>
         </div>
         <br>
         <div align="center">
-          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-16.png"width="300"/>
-          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-4.png"width="300"/>
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-16.png" width="300"/>
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-4.png" width="300"/>
         </div>
         <br>
         <div align="center">
-          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-10.png"width="300"/>
-          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-18.png"width="300"/>
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-10.png" width="300"/>
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-18.png" width="300"/>
         </div>
         <br>
         <div align="center">
-          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-11.png"width="300"/>
-          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-3.png"width="300"/>
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-11.png" width="300"/>
+          <img align="center" src="./images/gofrpg/gofrpg-promo-pic-3.png" width="300"/>
         </div>
         <br>
         <img align="center" src="./images/gofrpg/gofrpg-promo-pic-15.png" width="300"/>

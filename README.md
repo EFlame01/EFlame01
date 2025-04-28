@@ -20,18 +20,19 @@
     <br>
     <div align="center">
       <a href="https://github.com/EFlame01/Guardians-of-RPG">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=eo-comics-webpage&theme=tokyonight" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=eo-comics-webpage&theme=tokyonight" style="border-radius:2%; margin:5px" width="400"/>
+      </a>
+      <a href="https://github.com/EFlame01/Guardians-of-RPG">
+        <img align="center" src="./images/eo-comics-launch-page.png" style="border-radius:2%; margin:5px" width="400"/>
       </a>
     </div>
+    <br>
     <div>
-      <br>
-      <img align="right" src="./images/eo-comics-launch-page.png" style="border-radius:2%; margin:5px" width="350"/>
-      <p align="left">
-      I'm currently in the process of developing my own website for EO Comics! This website will contain all the updated projects that EO Comics has to offer, such as comics, video games, and animated content! In addition to this, it will also have blogs and frequent update posts to keep my audience up to date with any future EO Comics endeavors!
+      <p align="center">
+        I'm currently in the process of developing my own website for EO Comics! This website will contain all the updated projects that EO Comics has to offer, such as comics, video games, and animated content! In addition to this, it will also have blogs and frequent update posts to keep my audience up to date with any future EO Comics endeavors!
       </p>
     </div>
   </div>
-  <br>
   <br>
   <div class="guardians-of-rpg-section">
     <h3 align="center">🎮 Guardians of RPG</h3>
@@ -40,12 +41,16 @@
       <a href="https://github.com/EFlame01/Guardians-of-RPG">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eflame01&repo=guardians-of-rpg&theme=tokyonight" />
       </a>
+      <br>
+      <a href="https://github.com/EFlame01/Guardians-of-RPG">
+        <img align="center" src="./images/gofrpg/guardians-of-rpg-start-page.png" style="border-radius:2%; margin:5px" width="400"/>
+      </a>
     </div>
     <div>
       <br>
-      <div align="center">
+      <!-- <div align="center">
         <img src="./images/gofrpg/guardians-of-rpg-start-page.png" style="border-radius:2%" width="1000"/>
-      </div>
+      </div> -->
       <p>
         Guardians of RPG is a 16 bit Role Playing where you wake up in the middle of the world with no memories of your past life. In your quest to find the answers to your past and your purpose, you learn more about the world and the evil organization that's hell bent on refactoring the land of RPG into their own image!
       </p>
